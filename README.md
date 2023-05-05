@@ -10,3 +10,19 @@ Train.training data and a submission example are both accessible in csv format. 
 In this particular instance, we will be judging the quality of your work based on the MAPE assessment criteria. Within the first one hundred eighty minutes of the exam, you are required to hand in the submission. Posted applications that won't be considered for acceptance. A maximum of 20 contributions may be submitted.
 
     
+### TimeLine of the project:
+ 1. Data Analysis
+ 2. Model Construction and Predictions Utilizing Machine Learning Techniques
+ 3. Model Construction and Prediction Employing Auto Keras (Auto ML)
+ 
+ 
+ ### Importing Libraries
+ 
+ ``` python
+ import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
+%matplotlib inline
+import matplotlib
+ 
+ ```
