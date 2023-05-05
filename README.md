@@ -159,8 +159,3 @@ yhat_test = reg.predict(X_test)
 # get the best performing model
 model = reg.export_model()
 ```
-
-![Blog Banners](https://user-images.githubusercontent.com/56669333/236429066-330214f0-6c3c-46f3-b482-43dc34ab0eb2.png)
-
-
-
